@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602000304 source:e:\code blcoks\tute8\main.c
+	<stdio.h>
+	<stdlib.h>
+
